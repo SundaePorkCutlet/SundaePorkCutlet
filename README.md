@@ -11,5 +11,5 @@
 <h3 align="center">👨‍💻Me👨‍💻</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/PortFolio-204ECF?style=flat-square&logo=GitHub&logoColor=white"/>
+<a href="https://www.notion.so/Juno-357452be2d5e41bea28edb0878fe19d8"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/PortFolio-204ECF?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>

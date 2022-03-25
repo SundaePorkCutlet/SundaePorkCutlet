@@ -11,5 +11,5 @@
 <h3 align="center">👨‍💻Me👨‍💻</h3>
 
 <div align="center">
-<a href="https://www.notion.so/Juno-357452be2d5e41bea28edb0878fe19d8"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://bit.ly/3GYkK3T"><img src="https://img.shields.io/badge/PortFolio-204ECF?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://romantic-hubcap-331.notion.site/Juno-357452be2d5e41bea28edb0878fe19d8"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://bit.ly/3GYkK3T"><img src="https://img.shields.io/badge/PortFolio-204ECF?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>

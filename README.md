@@ -9,4 +9,7 @@
 
 
 <h3 align="center">Me</h3>
+
+<div align="center>
 <img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+                                                                                                   </div>

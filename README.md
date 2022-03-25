@@ -12,4 +12,4 @@
 
 <div align="center>
 <img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white"/> 
-                                                                                                   </div>
+</div>

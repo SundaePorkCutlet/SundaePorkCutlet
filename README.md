@@ -20,11 +20,11 @@
 ---
 
 ## Focus
-- **API Reliability**: 인증/인가, 에러 핸들링, 운영 로그/지표 기반 개선
-- **Service Communication**: REST / gRPC 기반 서비스 연동 경험
-- **Observability**: Loki · Grafana · Prometheus 기반 모니터링
-- **Deployment / Update**: OTA 업데이트 파이프라인(무결성 검증 포함) 경험
-- **Testing**: Playwright / k6 기반 테스트 자동화 환경 구성 경험
+- API 개발: 인증/인가, 에러 처리, 로그 기반 문제 분석 경험
+- 서비스 연동: REST API 및 gRPC 통신 구조 사용 경험
+- 모니터링: Prometheus · Grafana · Loki 기반 운영 로그 확인 및 문제 대응
+- 배포 경험: OTA 업데이트 파이프라인 구현 참여
+- 테스트: Playwright / k6 기반 테스트 자동화 환경 구성
 
 ---
 
